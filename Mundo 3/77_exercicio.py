@@ -1,0 +1,1 @@
+"""Vogais em palavras"""
